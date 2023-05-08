@@ -1,0 +1,15 @@
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:126:9:BSP_TS_Init	40	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:179:9:BSP_TS_DeInit	24	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:204:9:BSP_TS_GetCapabilities	24	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:225:9:BSP_TS_EnableIT	40	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:275:9:BSP_TS_DisableIT	40	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:307:6:BSP_TS_IRQHandler	16	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:316:13:BSP_TS_Callback	16	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:328:9:BSP_TS_GetState	48	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:414:9:BSP_TS_Get_MultiTouchState	144	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:512:9:BSP_TS_GestureConfig	24	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:537:9:BSP_TS_GetGestureId	24	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:592:9:BSP_TS_Set_Orientation	16	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:604:9:BSP_TS_Get_Orientation	16	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:622:16:FT5336_Probe	48	static
+C:/Users/chaou/Downloads/Fx_File_Edit_Standalone/Drivers/STM32H735G-DK/stm32h735g_discovery_ts.c:667:13:TS_EXTI_Callback	8	static

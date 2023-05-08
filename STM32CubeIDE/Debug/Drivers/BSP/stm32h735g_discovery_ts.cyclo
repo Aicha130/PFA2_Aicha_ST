@@ -1,0 +1,15 @@
+stm32h735g_discovery_ts.c:126:9:BSP_TS_Init	10
+stm32h735g_discovery_ts.c:179:9:BSP_TS_DeInit	3
+stm32h735g_discovery_ts.c:204:9:BSP_TS_GetCapabilities	2
+stm32h735g_discovery_ts.c:225:9:BSP_TS_EnableIT	5
+stm32h735g_discovery_ts.c:275:9:BSP_TS_DisableIT	3
+stm32h735g_discovery_ts.c:307:6:BSP_TS_IRQHandler	1
+stm32h735g_discovery_ts.c:316:13:BSP_TS_Callback	1
+stm32h735g_discovery_ts.c:328:9:BSP_TS_GetState	11
+stm32h735g_discovery_ts.c:414:9:BSP_TS_Get_MultiTouchState	13
+stm32h735g_discovery_ts.c:512:9:BSP_TS_GestureConfig	3
+stm32h735g_discovery_ts.c:537:9:BSP_TS_GetGestureId	13
+stm32h735g_discovery_ts.c:592:9:BSP_TS_Set_Orientation	1
+stm32h735g_discovery_ts.c:604:9:BSP_TS_Get_Orientation	1
+stm32h735g_discovery_ts.c:622:16:FT5336_Probe	5
+stm32h735g_discovery_ts.c:667:13:TS_EXTI_Callback	1
